@@ -45,5 +45,5 @@
              Ответственно отношусь к работе, пунктуален и внимателен. Всегда рад научится чему-то новому.
              
 + **Что то типа портфолио**
-  + https://www.deviantart.com/zvezd0chet/gallery
-  + https://steamcommunity.com/sharedfiles/filedetails/?id=3272866999
+  + [Галерея со сгенерированными AI изображениями](https://www.deviantart.com/zvezd0chet/gallery)
+  + [Мод для игры Stellaris](https://steamcommunity.com/sharedfiles/filedetails/?id=3272866999)
